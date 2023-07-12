@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "951643971920",
+    "project_id": "yeyeappflutter",
+    "storage_bucket": "yeyeappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951643971920:android:176550a412182be4718c55",
+        "android_client_info": {
+          "package_name": "com.beyza.saticiuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951643971920-8m5dfgv35l2fku69d4nhuh1rbrhgll1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3P-gBWNO7DszJ0MaZM_9x0fXW0RfVoR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951643971920-8m5dfgv35l2fku69d4nhuh1rbrhgll1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951643971920:android:6530b3bd36d6aef7718c55",
+        "android_client_info": {
+          "package_name": "com.example.yeye_riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951643971920-8m5dfgv35l2fku69d4nhuh1rbrhgll1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3P-gBWNO7DszJ0MaZM_9x0fXW0RfVoR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951643971920-8m5dfgv35l2fku69d4nhuh1rbrhgll1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
